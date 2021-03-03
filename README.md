@@ -1,0 +1,2 @@
+# TipCalcMob
+calculates the tip
